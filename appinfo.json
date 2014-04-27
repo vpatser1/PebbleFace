@@ -1,0 +1,20 @@
+{
+    "companyName": "vpatser1@binghamton.edu",
+    "appKeys": {
+        "lifts": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "resources": {
+        "media": []
+    },
+    "uuid": "33425005-7a6d-4477-a659-c5b0ff143a68",
+    "versionCode": 1,
+    "longName": "MessingAround2",
+    "shortName": "MessingAround2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
